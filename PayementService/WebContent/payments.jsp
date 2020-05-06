@@ -18,7 +18,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-6">
-				<h1>Payments Management V10.1</h1>
+				<h1>Payments Management </h1>
 				
 				<form id="formPayment" name="formPayment">
 					Appointment: <input id="Appointment" name="Appointment" type="text"
